@@ -5,7 +5,7 @@ from parse import get_btc_price, get_dollar_price, get_eth_xmr_zec_price
 # Для клавиатуры
 from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
-API_TOKEN = '1044333845:AAGsgtIVXp2sa3HbsuE58APEJTYb6AWGoPg'
+API_TOKEN = ''
 # Задаем уровень логов
 logging.basicConfig(level=logging.INFO)
 
